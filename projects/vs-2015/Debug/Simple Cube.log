@@ -1,0 +1,12 @@
+﻿  Cube.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  View.cpp
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Polar_Sphere.cpp
+  Generating Code...
+  Simple Cube.vcxproj -> D:\ESNE\Ejercicio Repaso Examen\projects\vs-2015\Debug\Point Light.exe
+  Simple Cube.vcxproj -> D:\ESNE\Ejercicio Repaso Examen\projects\vs-2015\Debug\Point Light.pdb (Partial PDB)
